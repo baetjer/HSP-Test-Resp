@@ -18,7 +18,7 @@ namespace HSP_Resp_Test
             Console.WriteLine("Hallo Ole");
 >>>>>>> Stashed changes
 
-            Console.ReadKey();
+            
         }
     }
 }
