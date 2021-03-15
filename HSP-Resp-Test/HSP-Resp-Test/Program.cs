@@ -10,9 +10,9 @@ namespace HSP_Resp_Test
     {
         static void Main(string[] args)
         {
-<<<<<<< Updated upstream
 
-         int i=1
+<<<<<<< Updated upstream
+            int i = 1;
 =======
             Console.WriteLine("Hallo Tim");
             Console.WriteLine("Hallo Ole");
