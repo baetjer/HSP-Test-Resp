@@ -10,13 +10,10 @@ namespace HSP_Resp_Test
     {
         static void Main(string[] args)
         {
-<<<<<<< Updated upstream
+
             Console.WriteLine("Hallo Tim");
             Console.WriteLine("Hallo Ole");
-=======
-            Console.WriteLine("Hallo Tim123");
-            
->>>>>>> Stashed changes
+
             Console.ReadKey();
         }
     }
