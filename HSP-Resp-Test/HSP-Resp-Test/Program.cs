@@ -10,7 +10,7 @@ namespace HSP_Resp_Test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hallo Timbo");
+            Console.WriteLine("Hallo Tim");
             Console.ReadKey();
         }
     }
