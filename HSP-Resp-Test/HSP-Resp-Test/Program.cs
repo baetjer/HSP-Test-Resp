@@ -12,14 +12,15 @@ namespace HSP_Resp_Test
         {
 
             int i = 1;
-           
-
-            Console.WriteLine("Hallo Tim");
-            Console.WriteLine("Hallo Ole");
-            Console.WriteLine("你好 Qian");
+            Console.WriteLine("       Willkommen Zur Gruppe F");
+            Console.WriteLine("**********************************");
+            Console.WriteLine("       Hallo Tim");
+            Console.WriteLine("       Hallo Ole");
+            Console.WriteLine("       你好 Qian");
 
             Console.ReadKey();
             
         }
     }
+    
 }
