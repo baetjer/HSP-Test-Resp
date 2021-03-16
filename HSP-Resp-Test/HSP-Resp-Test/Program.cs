@@ -12,12 +12,11 @@ namespace HSP_Resp_Test
         {
 
             int i = 1;
-            string Ho
-                Ho = "你好 Qian";
+           
 
             Console.WriteLine("Hallo Tim");
             Console.WriteLine("Hallo Ole");
-            Console.WriteLine("Ho");
+            Console.WriteLine("你好 Qian");
 
             Console.ReadKey();
             
