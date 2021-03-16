@@ -12,7 +12,7 @@ namespace HSP_Resp_Test
         {
 
             
-            int i = 1;
+            int (i=1)
             Console.WriteLine("       Willkommen Zur Gruppe F");
             Console.WriteLine("**********************************");
             Console.WriteLine("       Hallo Tim");
