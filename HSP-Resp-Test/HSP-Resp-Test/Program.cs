@@ -11,8 +11,8 @@ namespace HSP_Resp_Test
         static void Main(string[] args)
         {
 
-            
-            int (i=1)
+
+            int i = 1;
             Console.WriteLine("       Willkommen Zur Gruppe F");
             Console.WriteLine("**********************************");
             Console.WriteLine("       Hallo Tim");
