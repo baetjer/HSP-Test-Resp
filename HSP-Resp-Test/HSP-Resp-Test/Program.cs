@@ -15,7 +15,7 @@ namespace HSP_Resp_Test
 
             Console.WriteLine("       Willkommen Zur Gruppe F");
             Console.WriteLine("**********************************");
-            Console.WriteLine("       Hallo Tim");
+            Console.WriteLine("        Tim");
             Console.WriteLine("       Hallo Ole");
             Console.WriteLine("       你好 Qian");
             Console.WriteLine("       Hallo Fabian")
