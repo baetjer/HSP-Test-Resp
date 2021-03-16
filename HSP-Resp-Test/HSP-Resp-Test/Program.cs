@@ -22,7 +22,11 @@ namespace HSP_Resp_Test
             Console.WriteLine("press F to pay respect");
             Console.WriteLine("press F to bazehlen respect");
             Console.WriteLine("whatsupp");
+<<<<<<< Updated upstream
             Console.WriteLine("oof");
+=======
+            Console.WriteLine("doof?");
+>>>>>>> Stashed changes
             Console.WriteLine("هههههههههه");
 
             Console.ReadKey();
