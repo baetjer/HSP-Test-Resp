@@ -21,7 +21,7 @@ namespace HSP_Resp_Test
             Console.WriteLine("       Hallo Fabian")
             Console.WriteLine("press F to pay respect");
             Console.WriteLine("whatsupp");
-            Console.WriteLine("What time is it?");
+            Console.WriteLine("What time is it? It´s now.");
 
             Console.ReadKey();
             
