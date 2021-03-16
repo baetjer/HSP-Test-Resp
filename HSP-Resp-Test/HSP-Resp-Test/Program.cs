@@ -20,7 +20,7 @@ namespace HSP_Resp_Test
             Console.WriteLine("       你好 Qian");
             Console.WriteLine("press F to pay respect");
             Console.WriteLine("whatsupp");
-            Console.WriteLine("What is your name?");
+            Console.WriteLine("What time is it?");
             Console.ReadKey();
             
         }
