@@ -11,8 +11,8 @@ namespace HSP_Resp_Test
         static void Main(string[] args)
         {
 
-            
-            int (i=1)
+
+            int i = 1;
             Console.WriteLine("       Willkommen Zur Gruppe F");
             Console.WriteLine("**********************************");
             Console.WriteLine("       Hallo Tim");
@@ -20,7 +20,11 @@ namespace HSP_Resp_Test
             Console.WriteLine("       你好 Qian");
             Console.WriteLine("press F to pay respect");
             Console.WriteLine("whatsupp");
+<<<<<<< HEAD
             Console.WriteLine("هههههههههه");
+=======
+            Console.WriteLine("What time is it?");
+>>>>>>> edcae7f8b18986cee8773b84a7deace730d900fc
             Console.ReadKey();
             
         }
