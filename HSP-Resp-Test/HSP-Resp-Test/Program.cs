@@ -19,7 +19,7 @@ namespace HSP_Resp_Test
             Console.WriteLine("       Hallo Ole");
             Console.WriteLine("       你好 Qian");
             Console.WriteLine("       Hallo Fabian");
-            Console.WriteLine("press F to pay respect");
+            Console.WriteLine("press F to pay respects");
             Console.WriteLine("press F to bazehlen respect");
             Console.WriteLine("whatsupp");
             Console.WriteLine("oof");
