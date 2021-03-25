@@ -22,8 +22,12 @@ namespace HSP_Resp_Test
             Console.WriteLine("press F to pay respects");
             Console.WriteLine("press F to bazehlen respect");
             Console.WriteLine("Good morning");
+<<<<<<< HEAD
             Console.WriteLine("guten morgen");
+=======
+>>>>>>> aaa718efba8961e4416068f622e320b7173e1bbe
             Console.WriteLine("moin");
+            Console.WriteLine("moin jungens");
             Console.WriteLine("هههههههههه");
 
             Console.ReadKey();
